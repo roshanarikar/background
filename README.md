@@ -1,5 +1,5 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFRPBTkO2srCw/profile-displaybackgroundimage-shrink_350_1400/0/1638693404313?e=1651104000&v=beta&t=-FkggejEZaFdX1TYCQpqSIBsEVYySw00OS2s-j8eHyI)
-<h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
+<h1 align="center">Hi 👋, I'm Roshan Arikar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN , Figma**
 
-- 📫 How to reach me **tech.aku17@gmail.com**
+- 📫 How to reach me **roshan.g.arikar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
