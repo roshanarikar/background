@@ -20,8 +20,7 @@
 <a href="https://twitter.com/roshan_arikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshan_arikar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/roshan-arikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-arikar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18629957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18629957" height="30" width="40" /></a>
-<a href="https://fb.com/roshan.arikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshan.arikar" height="30" width="40" /></a>
-<a href="https://instagram.com/roshan_arikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshan_arikar" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
