@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **roshan.g.arikar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1727V0zkC0zMswfYHheVBXYZspMf7NYTr/view?usp=sharing](https://drive.google.com/file/d/1727V0zkC0zMswfYHheVBXYZspMf7NYTr/view?usp=sharing)
+- 📄 Know about my experiences [https://roshan-arikar.netlify.app/](https://roshan-arikar.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
