@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **roshan.g.arikar@gmail.com**
 
-- 📄 Know about my experiences [https://roshan-arikar.netlify.app/](https://roshan-arikar.netlify.app/)
+- 📄 Know about my experiences [https://roshan-arikarr.netlify.app/](https://roshan-arikarr.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
